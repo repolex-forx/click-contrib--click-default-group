@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/click-contrib/click-default-group/commit/dfddfd694e365e0b0714e35f9cc2c3097046e169",
       "git:hexsha": "dfddfd694e365e0b0714e35f9cc2c3097046e169",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/click-contrib/click-default-group/commit/30d66d0bd566e282c9a036333ccda7b1b7449e92",

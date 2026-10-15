@@ -1,0 +1,11 @@
+{
+  "org": "click-contrib",
+  "repo": "click-default-group",
+  "versions": [
+    {
+      "commit": "dfddfd694e365e0b0714e35f9cc2c3097046e169",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:27:14.686589+00:00"
+    }
+  ]
+}
